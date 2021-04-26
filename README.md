@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 🔭 I’m currently working on ...
-- Machine learning & Deep learning
+- Machine learning
 - Data Mining
 - Data Cleaning
 - Python Programming language
