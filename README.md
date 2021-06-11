@@ -29,7 +29,7 @@
 - Keras
 - Tensorflow and Pytorch
 # 💬 Ask me about ...
-- MongoDb
+- Sqlite
 - Python Programming
 # 📫 How to reach me: ...
 - +254720800842  
